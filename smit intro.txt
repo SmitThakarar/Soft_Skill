@@ -1,0 +1,67 @@
+talk about my self
+
+hello, good morning everyone, first of all thanks to give me the oppertunitie to talk about my self, my name is smit thakarar , and i am from keshod,junagadh, right now i am pursuing JAVA developer course from TOPS technologies c.g road Ahmedabad,there i have completed my basics like c,c++,database,html,css, and  I have completed my graduation in becholer of computer application from Narsinh Mehta University, Junagadh.  
+
+
+
+
+hobby
+
+hello , good morning everyone i m smit thakarar and basically my hobby is to play cricket that I play once or twice in a week when i m free bcoz it makes me more energetic and also I learn from that a person has to connect with other team members and also learn that how team work helps you to become succeed in your task. Moreover, I also like to do workout in gym for maintaining my physical and mental well being. and also i work as a volunteer in every jalaram jayanti in my hometown. 
+
+
+
+
+family background
+
+I come from junagadh, I belong to a joint family which included 5 members; grandparents are living their retired life ,father who is businessmen he work as wholeseler of onion and garlic, mother is a home maker ,and then me, basically i from junagadh i like to living there bcoz there is my comfort zone and also there is nature is quite good for better life living, but i came here for more carrer opertunities and also i learn from here that i have to increase my communication level and also time managment. 
+
+
+
+
+my short term goal
+
+as i am a fresher in this field so i would like to begin my career in java development so for now my short term goal is to get a job in reputed company like yours to showcase my skills as well as learn more in this field and improve my skills.
+
+
+
+
+my long term goal
+
+my long term goal is to achieve senior position as a java developer, i know it is not going to be easy to get that higher position easily so i will work hard and upgrade my skills to get there.
+
+
+
+
+
+how to handle tite deadline
+
+in my tite deadline i focusing on what's the most important first then i will work on that first and I distribute my project into smaller steps for making it easier and manage proper and prioritize and also in tite deadline comunication with team is more important so we should have to communicate with our team continuesly for keep my team updated, and I stay flexible and ready to adapt if things change unexpectedly in our project.
+
+
+
+
+career aspirations
+
+my career aspiration is To become a skilled IT professional known for innovative problem-solving, continuous learning, and contributing to impactful projects and enhance user experiences." and In the next five years at this company, I aim to increase my skills and expertise in IT, and also to make significant contributions to the company's success through my dedication.
+
+
+
+
+
+learning growth
+
+
+for managing work and personal life one should have proper time managment skills and i am very good at that. i distribute my entire day with work as well as my hobbys so currently my routine is like i am currently pursuing java development from TOPS technologys. there for i spend my time working on projects till 6 pm, then in the evening after leave the work place i hang out with friends and also play some indoor games for refreshment. and then after dinner i am connect with my familly through video call or voice call everyday.
+
+in work with team or by your self , if give me the option to select any one of then i prefer to work with team because in team work can be done in very less time and you get unique ideas form other team member to creat your website more creative.
+but if i work by my self then also i will handle it very well.
+
+and as a developer one should have clarity and good command for logics and ability to work on code easily and eficiently and also easily negets all errors and bugs, and have to know well about the frameworks related to Java language.
+
+
+
+
+project briefing
+
+our project is student managment record it is done by me and my team member in our mca sem 1 , in that project we have show all students recordes like  which student is doing which course. and if new student will come then we can add his record into database and if any student complete their session then we will remove all detaills of the that from database, and in this project my role is explain to the faculty.   
